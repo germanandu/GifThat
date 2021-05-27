@@ -3,3 +3,4 @@
 <p>Para usarlo en tu pc deberias tener node.js</p>
 <p>Luego de esto instalar wouter desde tu consola -> npm i wouter</p>
 <p>Finalmente -> npm install react-scripts --save</p>
+<p> Pagina web: https://gifthat-web.herokuapp.com/ </p>
